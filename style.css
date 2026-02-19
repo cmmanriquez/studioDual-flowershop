@@ -1,0 +1,23 @@
+body{
+  background-color: #670626;
+}
+h1{
+  padding: 100px 0 10px 0;
+  color:#BAD797;
+  font-family: "Bagel Fat One", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 65px;
+}
+marquee{
+  color: #F2EEE8;
+  font-family: "IBM Plex Sans KR", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  padding-bottom: 30px;
+  font-size: 35px;
+}
+.texto-foto{
+  margin-top: 80px;
+  background-color: #9DAD71;
+}
